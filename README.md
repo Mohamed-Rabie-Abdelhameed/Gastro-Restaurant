@@ -1,6 +1,6 @@
 # Gastro Restaurant
 
-A Flutter project for a Restaurant.   
+A Flutter project for a Restaurant Menu.   
 
 ## Screens   
 ### 1- Welcome
